@@ -11,7 +11,7 @@
 2. Jika sudah maka Start all Laragonnya, setelah itu ke terminal.
 3. Ketikan composer create-project --prefer-dist laravel/laravel nama-project, lalu Enter.
 4. jika sudah ketik cd nama-project untuk masuk ke folder project, lalu klik Enter.
-5. setelah itu ketik php artisan serve untuk mengecek apakah laravelnya berjalan atau tidak, kLIK Enter.
+5. setelah itu ketik php artisan serve untuk mengecek apakah laravelnya berjalan atau tidak, kliK Enter.
 6. Salin IP/Kode URL yang ada lalu tempel di browser anda setelah itu lihat apakah berhasil atau tidak.
 
 Selengkapnya ada di file pdf yang tersedia
